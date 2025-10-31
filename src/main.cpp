@@ -4,11 +4,11 @@
 #include <SinricPro.h>
 #include <SinricProSwitch.h>
 // Define constantes para conexão Wi-Fi e SinricPro
-#define WIFI_SSID "pedro"
-#define WIFI_PASS "brasil123"
-#define APP_KEY "3d6f9d29-aa4c-468a-b1ed-6d3e879be3cc"
-#define APP_SECRET "59dad854-eacc-42fd-b5e2-07ffc0e57c8c-e517bcb1-0c6c-4653-bbe1-4656dc601437"
-#define SWITCH_ID "69014270359ccc32ce17e5e3"
+#define WIFI_SSID ""
+#define WIFI_PASS ""
+#define APP_KEY ""
+#define APP_SECRET ""
+#define SWITCH_ID ""
 #define BAUD_RATE 9600
 // Define os pinos GPIO para o botão e o rele
 #define BUTTON_PIN 0 // GPIO para o BOTÃO (inverso: LOW = pressionado, HIGH = liberado)
